@@ -1,0 +1,46 @@
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\ApplicationInsights.config
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\roslyn\csc.exe
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\roslyn\vbc.exe
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\roslyn\VBCSCompiler.exe
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\Voice Trigger.dll.config
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\Voice Trigger.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\Voice Trigger.pdb
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\Microsoft.AI.Web.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\System.Web.Helpers.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\System.Web.Mvc.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\System.Web.Razor.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\System.Web.Webpages.Deployment.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\System.Web.Webpages.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\System.Web.Webpages.Razor.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\Microsoft.AI.Web.xml
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\System.Web.Razor.xml
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\System.Web.Webpages.xml
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\System.Web.Webpages.Deployment.xml
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\System.Web.Webpages.Razor.xml
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\System.Web.Helpers.xml
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\bin\System.Web.Mvc.xml
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\obj\Debug\Voice Trigger.dll
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\obj\Debug\Voice Trigger.pdb
+C:\Users\pb7n0079\documents\visual studio 2015\Projects\Voice Trigger\Voice Trigger\obj\Debug\Voice Trigger.csprojResolveAssemblyReference.cache

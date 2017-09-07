@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DBConnectionString-Web.config Connection String" description="DBConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=P2B4RND256\SQLEXPRESS;Initial Catalog=dbVoiceRecords;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\pb7n0079\\documents\\visual\ studio\ 2015\\Projects\\Voice\ Trigger\\Voice\ Trigger\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DBConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

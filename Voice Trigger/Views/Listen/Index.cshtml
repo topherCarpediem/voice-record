@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<style>
+    /* body{
+        background-color: black;
+        color: white;
+    }
+    .voice {
+
+        display: table;
+
+    }*/
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: black;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+</style>
+
+<ul>
+    <li><a href="/">Record</a></li>
+    <li><a href="/listen">Listen</a></li>
+
+</ul>
+
+<audio controls >
+    <source src="/listen/getFile" id="audio" type="audio/wav" />
+</audio>  
+
+

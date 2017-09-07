@@ -1,0 +1,73 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+@model Voice_Trigger.Models.RecordModel
+
+<style>
+    /* body{
+        background-color: black;
+        color: white;
+    }
+    .voice {
+        
+        display: table;
+    
+    }*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+
+</style>
+
+<ul>
+    <li><a href="http://localhost:55116">Record</a></li>
+    <li><a href="http://localhost:55116/listen">Listen</a></li>
+
+</ul>
+
+
+
+
+<section id="main-controls">
+
+    <canvas id="visualizer" height="60" width="798"></canvas>
+
+    Record name: <input type="text" id="name">
+
+    <br><br>
+        <button id="record">Record</button>
+        <button id="stop">stop</button>
+    <hr />
+
+    <div class="voice">
+       
+      
+
+    </div>
+
+
+</section>
+
+
+
+
+<script src="~/scripts/app.js"></script>
